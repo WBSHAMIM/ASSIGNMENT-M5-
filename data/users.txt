@@ -1,0 +1,3 @@
+admin, shamim@gmail.com, password11111, firstN, lastN, city_Dhaka
+manager, joynul@gmail.com, password22222, firstN, lastN, city_Khulna
+user, munir@gmail.com, password33333, firstN, lastN, city_Borishal
